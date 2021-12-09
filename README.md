@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olu-wafemi
+- 👋 Hi, I’m Oluwafemi
 - 👀 I’m interested in Backend, Blockchain and Machine Learning 
 
 
