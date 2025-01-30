@@ -1,8 +1,25 @@
-- 👋 Hi, I’m Oluwafemi
-- 👀 I’m interested in Backend, Blockchain and Machine Learning 
+# 🚀 Welcome to My GitHub! 👋  
+
+I’m a Backend Developer with a passion for Cloud Automation and DevOps.  
+I specialize in building scalable and high-performance applications using cutting-edge technologies.  
+
+## 🛠️ Tech Stack  
+- Backend: Node.js (Express.js, NestJS)  
+- Databases: MongoDB, PostgreSQL, Redis  
+- DevOps & Cloud: AWS, Azure, Docker  
+- CI/CD & Automation: GitHub Actions, Bitbucket Pipelines  
+
+## 🔥 What I Do  
+✅ Develop robust RESTful & GraphQL APIs  
+✅ Design scalable microservices** architectures  
+✅ Automate deployments with CI/CD pipelines  
+✅ Optimize cloud infrastructures for high availability & performance  
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olu-wafemi&show_icons=true&theme=radical)  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/effemm)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_EffEmm)  
 
 
-<!---
-Olu-wafemi/Olu-wafemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
