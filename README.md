@@ -5,7 +5,7 @@ I specialize in building scalable and high-performance applications using cuttin
 
 ## 🛠️ Tech Stack  
 - Backend: Node.js (Express.js, NestJS)  
-- Databases: MongoDB, PostgreSQL, Redis  
+- Databases: MongoDB, PostgreSQL, Prisma, CassandraDB 
 - DevOps & Cloud: AWS, Azure, Docker  
 - CI/CD & Automation: GitHub Actions, Bitbucket Pipelines  
 
