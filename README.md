@@ -11,7 +11,7 @@ I specialize in building scalable and high-performance applications using cuttin
 
 ## 🔥 What I Do  
 ✅ Develop robust RESTful & GraphQL APIs  
-✅ Design scalable microservices** architectures  
+✅ Design scalable microservices architectures  
 ✅ Automate deployments with CI/CD pipelines  
 ✅ Optimize cloud infrastructures for high availability & performance  
 
