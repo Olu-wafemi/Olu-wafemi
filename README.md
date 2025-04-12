@@ -16,7 +16,7 @@ I specialize in building scalable and high-performance applications using cuttin
 - Optimize cloud infrastructures for high availability & performance  
 
 ## GitHub Stats  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olu-wafemi&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olu-wafemi&show_icons=true&theme=radical)  
 
 ## Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/effemm)  
