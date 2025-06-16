@@ -4,7 +4,7 @@ I’m a Backend Developer with a passion for Cloud Automation and DevOps.
 I specialize in building scalable and high-performance applications using cutting-edge technologies.  
 
 ##  Tech Stack  
-- Backend: Node.js (Express.js, NestJS)  
+- Backend: Node.js (Express.js, NestJS), Python(Flask, Django)  
 - Databases: MongoDB, PostgreSQL, Prisma, CassandraDB 
 - DevOps & Cloud: AWS, Azure, Docker  
 - CI/CD & Automation: GitHub Actions, Bitbucket Pipelines  
